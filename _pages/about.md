@@ -10,26 +10,26 @@ redirect_from:
 ## About Me
 
 I am **FeiFei-Li**, currently a PhD student in **Cluster algebras and quantum affine algebras** at **Lanzhou University**.  
-I was born in **anhui Province, China**.  
+I was born in **Anhui Province, China**.  
 
 ---
 
-## 🧭 Education
+## Education
 
-### 🎓 PhD in Mathematics, Lanzhou University  
+### PhD in Mathematics, Lanzhou University  
 **2025.09 – present**  
 *Research direction: Hopf algebras, quantum affine algebras*
 
-### 🎓 MSc in Mathematics, Lanzhou University  
+### MSc in Mathematics, Lanzhou University  
 **2022.09 – 2025.06**  
 *Research direction: Algebra (Fundamental Mathematics)*
 
-### 🎓 BSc in Information and Computational Science, Yangzhou University  
+### BSc in Information and Computational Science, Yangzhou University  
 **2018.09 – 2022.06**
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
 - Clusteralgebras  
 - Quantum affine algebras  
@@ -38,13 +38,13 @@ I was born in **anhui Province, China**.
 
 ---
 
-## 📬 Contact
+## Contact
 
 You may reach me via the email listed in the sidebar.  
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 This personal website is built using the open-source template  
 [Academic Pages](https://academicpages.github.io/),  
