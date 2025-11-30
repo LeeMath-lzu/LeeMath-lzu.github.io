@@ -18,7 +18,7 @@ I was born in **Anhui Province, China**.
 
 ### PhD in Mathematics, Lanzhou University  
 **2025.09 – present**  
-*Research direction: Hopf algebras, quantum affine algebras*
+*Research direction: Cluster algebras, quantum affine algebras*
 
 ### MSc in Mathematics, Lanzhou University  
 **2022.09 – 2025.06**  
