@@ -31,7 +31,7 @@ I was born in **Anhui Province, China**.
 
 ## Research Interests
 
-- Clusteralgebras  
+- Cluster algebras  
 - Quantum affine algebras  
 - Representation theory  
  
