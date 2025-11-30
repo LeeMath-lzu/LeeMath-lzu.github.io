@@ -23,14 +23,14 @@ repository               : "Leemath-lzu/leemath-lzu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "touxiang.png"
+  name             : "FeiFei-Li"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD student in quantum groups at Lanzhou University"
+  location         : "Lanzhou, Gansu, China"
+  employer         : "Lanzhou University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "liff2025@lzu.edu.cn" 
 
   # Academic websites
   academia         : # URL
