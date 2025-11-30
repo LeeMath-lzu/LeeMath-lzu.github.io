@@ -23,7 +23,7 @@ repository               : "Leemath-lzu/leemath-lzu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "touxiang.png"
+  avatar           : "touxiang.jpg"
   name             : "FeiFei-Li"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in quantum groups at Lanzhou University"
