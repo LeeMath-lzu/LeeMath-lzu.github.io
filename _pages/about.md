@@ -47,8 +47,7 @@ You may reach me via the email listed in the sidebar.
 ## Acknowledgements
 
 This personal website is built using the open-source template  
-[Academic Pages](https://academicpages.github.io/),  
-which is based on the [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/).  
+[Academic Pages](https://academicpages.github.io/), which is based on the [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/).  
 I am grateful to the developers and the open-source community for making these tools available.
 
 
