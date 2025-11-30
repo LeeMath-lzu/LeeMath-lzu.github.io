@@ -10,11 +10,11 @@
 # The following is the order of the links in the header of the website.
 
 main:
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+    #url: /cv/
 
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+    #url: /markdown/
 
   - title: "Website"
     url: /website/
